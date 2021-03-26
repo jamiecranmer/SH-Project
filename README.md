@@ -1,3 +1,3 @@
 # SH-project
 
-The code in this repository is from https://github.com/jamiecranmer/ep2mlf which was forked from https://github.com/asogaard/ep2mlf
+The adversarial code, Layers.py, ops.py, and plots.py were chaanged in https://github.com/jamiecranmer/ep2mlf which was forked from https://github.com/asogaard/ep2mlf
