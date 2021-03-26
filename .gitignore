@@ -1,0 +1,18 @@
+.ipynb_checkpoints/*
+.ipynb_checkpoints
+*.csv
+__pycache__/*
+__pycache__
+Adversarial Performance/*
+Correlations_NEW/*
+Leading Photon/*
+Mass Scaled Performance/*
+Parent Particle/*
+Secondary Photon/*
+StandardNN/*
+*.data
+*.PNG
+crysBall.py
+*.png
+*.ipynb
+*.txt
